@@ -32,6 +32,7 @@
 </template>
 
 <script>
+import '../api/getjson'
 export default {
   name: 'HelloWorld',
   props: {
